@@ -40,6 +40,15 @@ This repository documents my learning journey through practical exercises, exper
 
 **Goal: Learn by building, experimenting, and improving.**
 
+## Learning Progress
+
+### Day 1
+- Created GitHub account.
+- Created my first repository.
+- Installed GitHub Desktop.
+- Installed Visual Studio Code.
+- Connected my local project to GitHub.
+
 ---
 
 Created by Zakarea Omar Khalaf
